@@ -18,6 +18,7 @@
             }
             return ShortMatrix;
         }
+        
         static double Determinant (int Size, double[,] Matrix)
         {
             if (Size == 2)
